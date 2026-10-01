@@ -1,0 +1,6 @@
+{
+  "name": "CP Journey",
+  "description": "The structured Competitive Programming learning platform from Newbie to Grandmaster with curated roadmaps, problem tracking, resource library, streak heatmaps, and revision system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
